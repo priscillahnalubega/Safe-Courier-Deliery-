@@ -5,8 +5,8 @@ export default function Header() {
         
         <div className ="header">
          <div className="headerTitles">
-             <span className="headerTileSm">Anywhere & Anytime</span>
-             <span className="headerTileLg">SAFE COURIER</span>
+             <span className="headerTitleSm">Anywhere & Anytime</span>
+             <span className="headerTitleLg">SAFE COURIER</span>
          </div>
           <img className = "headerImg" 
           src= "https://images.pexels.com/photos/1167355/pexels-photo-1167355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" 
